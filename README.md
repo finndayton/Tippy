@@ -22,9 +22,7 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](tip working.gif)
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/finndayton/Tippy/blob/master/tip%20working.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
